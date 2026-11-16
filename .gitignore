@@ -1,0 +1,11 @@
+.env
+server/.env
+.venv/
+__pycache__/
+*.pyc
+xcuserdata/
+DerivedData/
+build/
+.DS_Store
+*.zip
+video/
